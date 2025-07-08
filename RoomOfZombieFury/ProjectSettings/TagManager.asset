@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Grass
   - Gravel
+  - Enemy
   layers:
   - Default
   - TransparentFX
